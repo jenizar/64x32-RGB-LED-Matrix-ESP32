@@ -46,4 +46,6 @@ RGBmatrixPanel matrix(A, B, C, D, CLK, LAT, OE, false, 64);
 
 references:
 
-https://arduino-projects-free.blogspot.com/2020/12/esp32-matrix-p4-64x32-rgb-scrolling.html
+1. https://arduino-projects-free.blogspot.com/2020/12/esp32-matrix-p4-64x32-rgb-scrolling.html
+
+2. https://www.instagram.com/p/CXWNVOphhA4/
