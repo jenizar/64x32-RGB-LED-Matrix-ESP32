@@ -7,7 +7,11 @@ materials:
 
 esp32, p5 led panel (1 pcs), rtc ds3231, psu 5v/10A, jumper cable, breadboard
 
-![alt text](https://github.com/jenizar/64x32-RGB-LED-Matrix-ESP32/blob/main/screenshot/ss1.jpg)
+![alt text](https://github.com/jenizar/64x32-RGB-LED-Matrix-ESP32/blob/main/Screenshot/ss1.jpg)
+
+![alt text](https://github.com/jenizar/64x32-RGB-LED-Matrix-ESP32/blob/main/Screenshot/ss2.jpg)
+
+![alt text](https://github.com/jenizar/64x32-RGB-LED-Matrix-ESP32/blob/main/Screenshot/ss3.jpg)
 
 ![alt text](https://github.com/jenizar/64x32-RGB-LED-Matrix-ESP32/blob/main/Screenshot/64x32%20RGB%20Led%20Matrix%20With%20ESP32.jpg)
 
